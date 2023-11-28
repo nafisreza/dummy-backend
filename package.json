@@ -1,0 +1,25 @@
+{
+  "name": "dummy-backend",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nafisreza/dummy-backend.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Nafis Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nafisreza/dummy-backend/issues"
+  },
+  "homepage": "https://github.com/nafisreza/dummy-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
